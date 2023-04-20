@@ -1,0 +1,5 @@
+.background-image {
+    background-image: url('/public/images/1.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+}
